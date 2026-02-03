@@ -1,0 +1,16 @@
+{
+  "chain_name": "Günahkar_Casper",
+  "api": ["http://207.180.193.114:1317"],
+  "rpc": ["http://207.180.193.114:26657"],
+  "sdk_version": "0.47",
+  "addr_prefix": "republic",
+  "theme_color": "#ff0000",
+  "assets": [
+    {
+      "base": "urai",
+      "symbol": "RAI",
+      "exponent": 18,
+      "logo": "https://raw.githubusercontent.com/RepublicAI/networks/main/testnet/logo.png"
+    }
+  ]
+}
